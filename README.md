@@ -1,4 +1,4 @@
-# Medical Pager Chat App
+# Medical Chat App
 
 ![img6](https://github.com/birukayalew/Medical-Chat-App/assets/61549951/d79a30f9-11f6-40fe-9cec-f407e7445e38)
 ![img4](https://github.com/birukayalew/Medical-Chat-App/assets/61549951/c857d0d4-168f-4514-8356-826573ab6c53)
